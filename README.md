@@ -14,6 +14,12 @@ Aspiring student with a strong interest in building interactive, user-friendly d
 ✉️ Email: [Email](mailto:claire.lentete@outlook.com)
 
 ---
+### 🛠️ Projects
+- **Interactive Escape Game** - Built with HTML/CSS/JS. [GitHub Repo]([link](https://github.com/Takotsubo3/home-alone_v2))
+- **SkillSwipe** - Tinder-style platform for internships. [GitHub Repo](link)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Takotsubo3&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
