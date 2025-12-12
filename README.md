@@ -11,10 +11,7 @@ Aspiring student with a strong interest in building interactive, user-friendly d
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celena-lentete/)  
-✉️ Email: [celena@example.com](mailto:claire.lentete@outlook.com)
-
-### 📊 Stats
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Takotsubo3&icon=0&color=0)](https://visitcount.itsvg.in)
+✉️ Email: [Email](mailto:claire.lentete@outlook.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Takotsubo3&icon=0&color=0)](https://visitcount.itsvg.in)
